@@ -1,3 +1,7 @@
+
+![TarotCardReferenceScreenshot](https://github.com/noarche/TarotCardReference/blob/main/source/TarotCardReference.gif?raw=true)
+
+
 # ꧁꧂ 🔮 TarotCardReference
 
  This app/script was designed to be a quick card reference for people that are still learning the cards
